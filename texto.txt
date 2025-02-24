@@ -1,1 +1,3 @@
 creando el archivo de texto desde git
+
+modificando el archivo para guardarlo
