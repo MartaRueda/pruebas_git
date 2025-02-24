@@ -3,3 +3,5 @@ creando el archivo de texto desde git
 modificando el archivo para guardarlo
 
 abriendo el archivo desde la rama_nueva para modificarlo
+
+fusionando el archivo de rama_nueva con rama main
